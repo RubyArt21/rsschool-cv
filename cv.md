@@ -1,7 +1,10 @@
+
+
 #Valeryia Kizina
+
 ##Web-developer
 
-===============================================================================================
+======
 
 
 ###Contacts:
@@ -12,7 +15,8 @@ My Website: https://rubyrenme.ru/
 Rs-school nickname: Ruby(@RubyArt21)
 LinkedIn: linkedin.com/in/валерия-кизина-28136479
 
-===============================================================================================
+======
+
 
 ###Experience
 
@@ -20,7 +24,8 @@ I have experience in different types of jobs. Starting with janitorial positions
 
 I do not have much experience in website development, but I am going to try my best and improve.
 
-===============================================================================================
+======
+
 
 ###Skills 
 
@@ -36,9 +41,17 @@ I do not have much experience in website development, but I am going to try my b
 *Figma
 *Materialize
 
+======
+
 ###Education
 
 BSU 
+Mathematics Department (Mathematics and IT)
+4th year
+
+
+======
+
 
 ###Languages
 
