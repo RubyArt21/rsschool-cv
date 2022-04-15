@@ -14,6 +14,7 @@ Gmail: valeoks21@gmail.com
 My Website: https://rubyrenme.ru/
 Rs-school nickname: Ruby(@RubyArt21)
 LinkedIn: linkedin.com/in/валерия-кизина-28136479
+Github: https://github.com/RubyArt21
 
 ======
 
