@@ -8,7 +8,7 @@
 
 
 ###Contacts:
-+375 (29) 306-58-76
++375 (25) 746-01-64
 Minsk, Belarus
 Gmail: valeoks21@gmail.com
 My Website: https://rubyrenme.ru/
@@ -59,6 +59,7 @@ Hair courses
 
 ###Languages
 
+*Russian ---C2
 *English ---B1
 *Polish ---B1
 Also started learning German
