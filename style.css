@@ -4,7 +4,11 @@ html, body {
     font-size: 16px;
 }
 
-.container {
+div {
     width: 80%;
     margin-left: auto;
     margin-right: auto;}
+
+    .rs{
+        height: 32px;
+    }
