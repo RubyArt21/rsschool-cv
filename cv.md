@@ -25,6 +25,8 @@ I have experience in different types of jobs. Starting with janitorial positions
 
 I do not have much experience in website development, but I am going to try my best and improve.
 
+Created website for myself, website management and content updates, also was some Wordress-website edits for a few companies on freelance. Earlier usually was using Atom editor, Eclipse for Java code, at the moment I am using Visual Studio Code.
+
 ======
 
 
@@ -39,7 +41,9 @@ I do not have much experience in website development, but I am going to try my b
 *WordPress(PHP)
 *React
 *SQL
-*Figma
+*C++
+*Java
+*PHP
 *Materialize
 
 ======
